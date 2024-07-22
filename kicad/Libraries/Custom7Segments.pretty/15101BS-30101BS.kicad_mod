@@ -26,21 +26,21 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ba8852a5-ca5c-4d94-96dc-79ebdf26914c)
   )
-  (fp_line (start 7.62 -17.78) (end 6.35 -12.7) (layer "F.SilkS") (width 0.15) (tstamp 14ed3a56-8b61-4895-afb1-c1b656c9a8c8))
-  (fp_line (start 2.54 -18.415) (end 6.985 -18.415) (layer "F.SilkS") (width 0.15) (tstamp 18d3b938-811f-49b2-acbc-07a0a33c4618))
-  (fp_line (start 1.27 -12.7) (end 5.715 -12.7) (layer "F.SilkS") (width 0.15) (tstamp 3198c182-4793-46e4-8f05-eb37643802ce))
-  (fp_line (start 7.809781 -18.850074) (end 9.079781 -23.930074) (layer "F.SilkS") (width 0.15) (tstamp 53925b88-f7e4-4be9-b9df-01dba558934c))
+  (fp_line (start 6.200923 -19.053734) (end 6.768288 -20.864818) (layer "F.SilkS") (width 0.15) (tstamp 17aecedd-86a9-4e8d-a5ab-ea9208039740))
+  (fp_line (start 3.008916 -16.479852) (end 3.576281 -18.290936) (layer "F.SilkS") (width 0.15) (tstamp 4d129434-c95d-4650-9699-a99bee9472c6))
   (fp_line (start 11.38 -80.62) (end -1.22 -80.62) (layer "F.SilkS") (width 0.127) (tstamp 60a99ccf-acdd-4d60-8005-94850b54b265))
   (fp_line (start 11.38 -41.88) (end -1.22 -41.88) (layer "F.SilkS") (width 0.127) (tstamp 68c8dba5-f2a7-4560-b331-a6b8f91241e7))
-  (fp_line (start 4.184792 -24.123431) (end 8.629792 -24.123431) (layer "F.SilkS") (width 0.15) (tstamp 762154df-34d4-489a-8195-2503b1db519a))
-  (fp_line (start 2.153872 -18.890653) (end 3.423872 -23.970653) (layer "F.SilkS") (width 0.15) (tstamp 9467f228-2336-46d1-8e66-d0a0a70997b6))
+  (fp_line (start 4.724402 -21.224125) (end 6.504966 -21.227409) (layer "F.SilkS") (width 0.15) (tstamp 762154df-34d4-489a-8195-2503b1db519a))
+  (fp_line (start 3.955999 -18.605152) (end 5.736563 -18.608436) (layer "F.SilkS") (width 0.15) (tstamp 77156f18-d51f-4da1-a176-c1ffcf3e3966))
+  (fp_line (start 3.293101 -16.040673) (end 5.073665 -16.043957) (layer "F.SilkS") (width 0.15) (tstamp 778b201b-0f48-43b2-b932-e3f163fe3cc1))
+  (fp_line (start 3.777319 -19.098825) (end 4.344684 -20.909909) (layer "F.SilkS") (width 0.15) (tstamp 9467f228-2336-46d1-8e66-d0a0a70997b6))
   (fp_line (start 11.38 -49.88) (end -1.22 -49.88) (layer "F.SilkS") (width 0.127) (tstamp 9b7e4596-b8e4-48e1-aac2-c9563f566f7d))
-  (fp_line (start 11.38 1.88) (end 11.38 -80.62) (layer "F.SilkS") (width 0.127) (tstamp b9d0c09c-b5f0-4ced-98ea-c15c3356c630))
+  (fp_line (start 11.38 -6) (end 11.38 -80.62) (layer "F.SilkS") (width 0.127) (tstamp b9d0c09c-b5f0-4ced-98ea-c15c3356c630))
   (fp_line (start 11.38 -61.88) (end -1.22 -61.88) (layer "F.SilkS") (width 0.127) (tstamp c271ecf3-1859-42ec-9121-e89147dc4d8b))
-  (fp_line (start 0.635 -12.7) (end 1.905 -17.78) (layer "F.SilkS") (width 0.15) (tstamp d37e5b0d-37fb-4b2c-a673-b328258d9674))
-  (fp_line (start -1.22 -80.62) (end -1.22 1.88) (layer "F.SilkS") (width 0.127) (tstamp e3f35761-bf2f-40c4-befe-30763866de57))
+  (fp_line (start -1.22 -80.62) (end -1.22 -6) (layer "F.SilkS") (width 0.127) (tstamp e3f35761-bf2f-40c4-befe-30763866de57))
+  (fp_line (start 5.43252 -16.434761) (end 5.999885 -18.245845) (layer "F.SilkS") (width 0.15) (tstamp e8315871-25d2-4775-87c4-00bc71c5b9ec))
   (fp_line (start -1.22 1.88) (end 11.38 1.88) (layer "F.SilkS") (width 0.127) (tstamp ed7f3fe4-5143-4b6b-ad10-6c48380a6e3c))
-  (fp_circle (center 8.89 -13.335) (end 9.525 -13.335) (layer "F.SilkS") (width 0.15) (fill none) (tstamp 23be5364-f9e7-4be0-a4f2-e91a68362e4a))
+  (fp_circle (center 6.884684 -15.829909) (end 7.284684 -15.829909) (layer "F.SilkS") (width 0.15) (fill none) (tstamp 23be5364-f9e7-4be0-a4f2-e91a68362e4a))
   (fp_circle (center 0 2.63) (end 0 2.53) (layer "F.SilkS") (width 0.2) (fill none) (tstamp aaa013c9-18b2-4ea6-bd3a-45a82decdcf0))
   (fp_line (start 11.38 -61.88) (end -1.22 -61.88) (layer "F.Fab") (width 0.127) (tstamp 1eebf3a8-0d6f-4eb1-90f5-36067e5d7bce))
   (fp_line (start 11.38 -41.88) (end -1.22 -41.88) (layer "F.Fab") (width 0.127) (tstamp 30914c13-499c-4820-93de-75d43d7fcd38))
@@ -102,14 +102,14 @@
     (solder_mask_margin 0.102) (tstamp dec70b7d-742a-4ee4-b41c-6c5f25a0eb62))
   (group "" (id 0e665bdf-fdcf-463e-91bb-947070aaa206)
     (members
-      14ed3a56-8b61-4895-afb1-c1b656c9a8c8
-      18d3b938-811f-49b2-acbc-07a0a33c4618
+      17aecedd-86a9-4e8d-a5ab-ea9208039740
       23be5364-f9e7-4be0-a4f2-e91a68362e4a
-      3198c182-4793-46e4-8f05-eb37643802ce
-      53925b88-f7e4-4be9-b9df-01dba558934c
+      4d129434-c95d-4650-9699-a99bee9472c6
       762154df-34d4-489a-8195-2503b1db519a
+      77156f18-d51f-4da1-a176-c1ffcf3e3966
+      778b201b-0f48-43b2-b932-e3f163fe3cc1
       9467f228-2336-46d1-8e66-d0a0a70997b6
-      d37e5b0d-37fb-4b2c-a673-b328258d9674
+      e8315871-25d2-4775-87c4-00bc71c5b9ec
     )
   )
 )
