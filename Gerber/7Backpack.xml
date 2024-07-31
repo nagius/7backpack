@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/nico/Documents/Projects/Domotique/7Backpack/kicad/7Backpack.kicad_sch</source>
+    <date>Fri 26 Jul 2024 09:55:43 PM IST</date>
+    <tool>Eeschema 6.0.11</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>7Backpack.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="7Backpack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24b80ae9-df7a-47e6-bf1f-fb587ac1fa53</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x06</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="7Backpack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84af3c8e-cbac-4cbc-988b-2619a67836a4</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x06</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="7Backpack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dec403c2-1ea6-45d2-b6d0-2fc8fee7147a</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10kΩ</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="7Backpack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>867d40ef-7c10-4dba-bd59-2d78cf8e8b70</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>15Ω</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22810</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C22810"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="7Backpack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>208fd5fc-c0c1-4790-9531-2e9af2ccc503</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>15Ω</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22810</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C22810"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="7Backpack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc831169-3f51-47ae-b367-8b992f27cb69</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>15Ω</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22810</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C22810"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="7Backpack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee992d96-582c-47b5-b9cc-730301fd84f6</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>15Ω</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22810</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C22810"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="7Backpack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe8fbdf9-277a-42b8-bf31-c21df22d6ccb</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>15Ω</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22810</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C22810"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="7Backpack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a558b1b2-4ec8-4880-8e4b-82c95cf6e997</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>15Ω</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22810</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C22810"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="7Backpack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>763e4dde-457a-40c1-adc0-2cf92812ab35</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>15Ω</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22810</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C22810"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="7Backpack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cefd95e4-1d86-4a10-a24a-f3abbf5db5e4</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>2kΩ</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22975</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C22975"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="7Backpack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb886b81-57b9-4350-992a-f0311e5b361d</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TPIC6C596PWR</value>
+      <footprint>TPIC6C596PWR:SOP65P640X120-16N</footprint>
+      <fields>
+        <field name="LCSC">C3304552</field>
+        <field name="MPN">TPIC6C596PWR</field>
+        <field name="PACKAGE">TSSOP-16</field>
+      </fields>
+      <libsource lib="TPIC6C596PWR" part="TPIC6C596PWR" description=""/>
+      <property name="PACKAGE" value="TSSOP-16"/>
+      <property name="MPN" value="TPIC6C596PWR"/>
+      <property name="LCSC" value="C3304552"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="7Backpack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf963df9-70b8-447a-b4bc-d4607209d73a</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>15101BS-30101BS</value>
+      <footprint>Custom7Segments:15101BS-30101BS</footprint>
+      <libsource lib="Custom7Segments" part="15101BS-30101BS" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="7Backpack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>effd2c1c-4501-4ff7-bfcb-218d17a34103</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x06">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom7Segments" part="15101BS-30101BS">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">15101BS-30101BS</field>
+        <field name="Footprint">Custom7Segments:15101BS-30101BS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPIC6C596PWR" part="TPIC6C596PWR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPIC6C596PWR</field>
+        <field name="Footprint">TPIC6C596PWR:SOP65P640X120-16N</field>
+        <field name="MF">Texas Instruments</field>
+        <field name="Description">
+Automotive 8-bit shift register
+</field>
+        <field name="PACKAGE">TSSOP-16</field>
+        <field name="MPN">TPIC6C596PWR</field>
+        <field name="Price">None</field>
+        <field name="Package">TSSOP-16 Texas Instruments</field>
+        <field name="OC_FARNELL">-</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TPIC6C596PWR/Texas+Instruments/view-part/?ref=snap</field>
+        <field name="MP">TPIC6C596PWR</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=383265&amp;manufacturer=Texas Instruments&amp;part_name=TPIC6C596PWR&amp;search_term=tpic6c596pwr</field>
+        <field name="SUPPLIER">TEXAS INSTRUMENTS</field>
+        <field name="OC_NEWARK">80K3373</field>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TPIC6C596PWR/Texas+Instruments/view-part/?ref=eda</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="SER_IN" type="input"/>
+        <pin num="3" name="DRAIN0" type="output"/>
+        <pin num="4" name="DRAIN1" type="output"/>
+        <pin num="5" name="DRAIN2" type="output"/>
+        <pin num="6" name="DRAIN3" type="output"/>
+        <pin num="7" name="~CLR" type="input"/>
+        <pin num="8" name="~G" type="input"/>
+        <pin num="9" name="SER_OUT" type="output"/>
+        <pin num="10" name="RCK" type="input"/>
+        <pin num="11" name="DRAIN4" type="output"/>
+        <pin num="12" name="DRAIN5" type="output"/>
+        <pin num="13" name="DRAIN6" type="output"/>
+        <pin num="14" name="DRAIN7" type="output"/>
+        <pin num="15" name="SRCK" type="input"/>
+        <pin num="16" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Custom7Segments">
+      <uri>/home/nico/Documents/Projects/Domotique/7Backpack/kicad/Libraries/Custom7Segments.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="TPIC6C596PWR">
+      <uri>/home/nico/Documents/Projects/Domotique/7Backpack/kicad/Libraries/TPIC6C596PWR.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="~G" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="RCK" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(J1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="SRCK" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="SER_IN" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(J2-Pad3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="SER_OUT" pintype="output"/>
+    </net>
+    <net code="9" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="~CLR" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="DRAIN0" pintype="output"/>
+    </net>
+    <net code="11" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="7" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="DRAIN6" pintype="output"/>
+    </net>
+    <net code="13" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="DRAIN5" pintype="output"/>
+    </net>
+    <net code="15" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="DRAIN4" pintype="output"/>
+    </net>
+    <net code="17" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="DRAIN3" pintype="output"/>
+    </net>
+    <net code="19" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="DRAIN1" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(R7-Pad2)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U2" pin="9" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="DRAIN2" pintype="output"/>
+    </net>
+    <net code="23" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="10" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="DRAIN7" pintype="output"/>
+    </net>
+    <net code="25" name="Net-(R9-Pad2)">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U2" pin="8" pintype="passive"/>
+    </net>
+    <net code="28" name="VCC">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pintype="passive"/>
+    </net>
+  </nets>
+</export>

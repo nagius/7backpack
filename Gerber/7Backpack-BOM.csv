@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC
+"100nF","C1","Capacitor_SMD:C_0603_1608Metric","C14663"
+"10k","R1","Resistor_SMD:R_0603_1608Metric","C25804"
+"15","R2,R3,R4,R5,R6,R7,R8","Resistor_SMD:R_0603_1608Metric","C22810"
+"2k","R9","Resistor_SMD:R_0603_1608Metric","C22975"
+"TPIC6C596PWR","U1","TPIC6C596PWR:SOP65P640X120-16N","C3304552"
