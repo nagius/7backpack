@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "TPIC6C596PWR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TPIC6C596PWR.kicad_sym")(options "")(descr ""))
   (lib (name "Custom7Segments")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Custom7Segments.kicad_sym")(options "")(descr ""))
+  (lib (name "TPIC6C596DR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TPIC6C596DR.kicad_sym")(options "")(descr ""))
 )

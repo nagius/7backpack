@@ -1,4 +1,4 @@
-20902227424893939
+20903949878624178
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -81941,6 +81941,13 @@ Logo WEEE
 0
 0
 0
+TPIC6C596DR
+SOIC127P600X175-16N
+
+
+0
+16
+16
 TPIC6C596PWR
 SOP65P640X120-16N
 

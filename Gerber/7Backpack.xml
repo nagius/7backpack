@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/home/nico/Documents/Projects/Domotique/7Backpack/kicad/7Backpack.kicad_sch</source>
-    <date>Fri 26 Jul 2024 09:55:43 PM IST</date>
+    <source>/home/nico/Documents/Projects/Electronique/7Backpack/kicad/7Backpack.kicad_sch</source>
+    <date>Thu 01 Aug 2024 09:07:19 PM IST</date>
     <tool>Eeschema 6.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -56,7 +56,7 @@
       <tstamps>dec403c2-1ea6-45d2-b6d0-2fc8fee7147a</tstamps>
     </comp>
     <comp ref="R1">
-      <value>10kΩ</value>
+      <value>10k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C25804</field>
@@ -69,7 +69,7 @@
       <tstamps>867d40ef-7c10-4dba-bd59-2d78cf8e8b70</tstamps>
     </comp>
     <comp ref="R2">
-      <value>15Ω</value>
+      <value>15</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C22810</field>
@@ -82,7 +82,7 @@
       <tstamps>208fd5fc-c0c1-4790-9531-2e9af2ccc503</tstamps>
     </comp>
     <comp ref="R3">
-      <value>15Ω</value>
+      <value>15</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C22810</field>
@@ -95,7 +95,7 @@
       <tstamps>fc831169-3f51-47ae-b367-8b992f27cb69</tstamps>
     </comp>
     <comp ref="R4">
-      <value>15Ω</value>
+      <value>15</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C22810</field>
@@ -108,7 +108,7 @@
       <tstamps>ee992d96-582c-47b5-b9cc-730301fd84f6</tstamps>
     </comp>
     <comp ref="R5">
-      <value>15Ω</value>
+      <value>15</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C22810</field>
@@ -121,7 +121,7 @@
       <tstamps>fe8fbdf9-277a-42b8-bf31-c21df22d6ccb</tstamps>
     </comp>
     <comp ref="R6">
-      <value>15Ω</value>
+      <value>15</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C22810</field>
@@ -134,7 +134,7 @@
       <tstamps>a558b1b2-4ec8-4880-8e4b-82c95cf6e997</tstamps>
     </comp>
     <comp ref="R7">
-      <value>15Ω</value>
+      <value>15</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C22810</field>
@@ -147,7 +147,7 @@
       <tstamps>763e4dde-457a-40c1-adc0-2cf92812ab35</tstamps>
     </comp>
     <comp ref="R8">
-      <value>15Ω</value>
+      <value>15</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C22810</field>
@@ -160,7 +160,7 @@
       <tstamps>cefd95e4-1d86-4a10-a24a-f3abbf5db5e4</tstamps>
     </comp>
     <comp ref="R9">
-      <value>2kΩ</value>
+      <value>2k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C22975</field>
@@ -173,17 +173,15 @@
       <tstamps>bb886b81-57b9-4350-992a-f0311e5b361d</tstamps>
     </comp>
     <comp ref="U1">
-      <value>TPIC6C596PWR</value>
-      <footprint>TPIC6C596PWR:SOP65P640X120-16N</footprint>
+      <value>TPIC6C596DC</value>
+      <footprint>TPIC6C596DR:SOIC127P600X175-16N</footprint>
       <fields>
-        <field name="LCSC">C3304552</field>
-        <field name="MPN">TPIC6C596PWR</field>
-        <field name="PACKAGE">TSSOP-16</field>
+        <field name="LCSC">C2872253</field>
+        <field name="PACKAGE">SOIC-16</field>
       </fields>
       <libsource lib="TPIC6C596PWR" part="TPIC6C596PWR" description=""/>
-      <property name="PACKAGE" value="TSSOP-16"/>
-      <property name="MPN" value="TPIC6C596PWR"/>
-      <property name="LCSC" value="C3304552"/>
+      <property name="PACKAGE" value="SOIC-16"/>
+      <property name="LCSC" value="C2872253"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="7Backpack.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -318,13 +316,13 @@ Automotive 8-bit shift register
       <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
     </library>
     <library logical="Custom7Segments">
-      <uri>/home/nico/Documents/Projects/Domotique/7Backpack/kicad/Libraries/Custom7Segments.kicad_sym</uri>
+      <uri>/home/nico/Documents/Projects/Electronique/7Backpack/kicad/Libraries/Custom7Segments.kicad_sym</uri>
     </library>
     <library logical="Device">
       <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
     </library>
     <library logical="TPIC6C596PWR">
-      <uri>/home/nico/Documents/Projects/Domotique/7Backpack/kicad/Libraries/TPIC6C596PWR.kicad_sym</uri>
+      <uri>/home/nico/Documents/Projects/Electronique/7Backpack/kicad/Libraries/TPIC6C596PWR.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
